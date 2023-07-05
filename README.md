@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Weilin Yin and I also go by Alex. I am a fourth-year student studying Applied Statistics and Economics(Data Analytics Focus) at University of Toronto
+- 👋 Hi, I’m Weilin Yin and I also go by Alex. I am Data Scientist at Co-operators, a Canadian-owned insurance company.
 - 👀 I’m interested in Data Science, Machine Learning, Credit Risk Analysis, Soccer, FPS Video Games
-- 🌱 I’m currently working at Travelers Canada as a Business Intelligence & Analytics Intern.
-- 📫 How to reach me: alex.yin@mail.utoronto.ca
+- 📫 How to reach me: alexyin0429@gmail.com
 
 <!---
 alexyin0429/alexyin0429 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
